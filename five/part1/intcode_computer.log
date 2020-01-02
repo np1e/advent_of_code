@@ -1,0 +1,47 @@
+Instruction pointer: 0 || Writing 5 to 225
+Instruction pointer: 2 || Adding 5 and 1100 and writing it to 6
+Instruction pointer: 6 || Instruction pointer: 238 || Instruction pointer: 241 || Instruction pointer: 247 || Instruction pointer: 250 || Instruction pointer: 256 || Instruction pointer: 259 || Instruction pointer: 265 || Instruction pointer: 268 || Instruction pointer: 274 || Instruction pointer: 280 || Adding 5 and 5 and writing it to 225
+Instruction pointer: 284 || Adding 294 and 0 and writing it to 0
+Instruction pointer: 288 || Instruction pointer: 294 || Instruction pointer: 300 || Adding 10 and 10 and writing it to 225
+Instruction pointer: 304 || Adding 314 and 0 and writing it to 0
+Instruction pointer: 308 || Instruction pointer: 314 || Instruction pointer: 318 || Multiplying 2 and 0 and writing it to 223
+Instruction pointer: 322 || Instruction pointer: 329 || Instruction pointer: 333 || Multiplying 0 and 2 and writing it to 223
+Instruction pointer: 337 || Instruction pointer: 340 || Adding 1 and 0 and writing it to 223
+Instruction pointer: 344 || Instruction pointer: 348 || Multiplying 2 and 1 and writing it to 223
+Instruction pointer: 352 || Instruction pointer: 355 || Adding 1 and 2 and writing it to 223
+Instruction pointer: 359 || Instruction pointer: 363 || Multiplying 3 and 2 and writing it to 223
+Instruction pointer: 367 || Instruction pointer: 370 || Adding 1 and 6 and writing it to 223
+Instruction pointer: 374 || Instruction pointer: 378 || Multiplying 7 and 2 and writing it to 223
+Instruction pointer: 382 || Instruction pointer: 385 || Adding 14 and 1 and writing it to 223
+Instruction pointer: 389 || Instruction pointer: 393 || Multiplying 2 and 15 and writing it to 223
+Instruction pointer: 397 || Instruction pointer: 400 || Adding 1 and 30 and writing it to 223
+Instruction pointer: 404 || Instruction pointer: 408 || Multiplying 2 and 31 and writing it to 223
+Instruction pointer: 412 || Instruction pointer: 415 || Adding 1 and 62 and writing it to 223
+Instruction pointer: 419 || Instruction pointer: 423 || Multiplying 2 and 63 and writing it to 223
+Instruction pointer: 427 || Instruction pointer: 430 || Adding 1 and 126 and writing it to 223
+Instruction pointer: 434 || Instruction pointer: 438 || Multiplying 127 and 2 and writing it to 223
+Instruction pointer: 442 || Instruction pointer: 449 || Instruction pointer: 453 || Multiplying 2 and 254 and writing it to 223
+Instruction pointer: 457 || Instruction pointer: 460 || Adding 508 and 1 and writing it to 223
+Instruction pointer: 464 || Instruction pointer: 468 || Multiplying 509 and 2 and writing it to 223
+Instruction pointer: 472 || Instruction pointer: 479 || Instruction pointer: 483 || Multiplying 2 and 1018 and writing it to 223
+Instruction pointer: 487 || Instruction pointer: 490 || Adding 2036 and 1 and writing it to 223
+Instruction pointer: 494 || Instruction pointer: 498 || Multiplying 2 and 2037 and writing it to 223
+Instruction pointer: 502 || Instruction pointer: 505 || Adding 4074 and 1 and writing it to 223
+Instruction pointer: 509 || Instruction pointer: 513 || Multiplying 2 and 4075 and writing it to 223
+Instruction pointer: 517 || Instruction pointer: 520 || Adding 1 and 8150 and writing it to 223
+Instruction pointer: 524 || Instruction pointer: 528 || Multiplying 8151 and 2 and writing it to 223
+Instruction pointer: 532 || Instruction pointer: 539 || Instruction pointer: 543 || Multiplying 2 and 16302 and writing it to 223
+Instruction pointer: 547 || Instruction pointer: 550 || Adding 1 and 32604 and writing it to 223
+Instruction pointer: 554 || Instruction pointer: 558 || Multiplying 32605 and 2 and writing it to 223
+Instruction pointer: 562 || Instruction pointer: 569 || Instruction pointer: 573 || Multiplying 2 and 65210 and writing it to 223
+Instruction pointer: 577 || Instruction pointer: 584 || Instruction pointer: 588 || Multiplying 2 and 130420 and writing it to 223
+Instruction pointer: 592 || Instruction pointer: 595 || Adding 1 and 260840 and writing it to 223
+Instruction pointer: 599 || Instruction pointer: 603 || Multiplying 260841 and 2 and writing it to 223
+Instruction pointer: 607 || Instruction pointer: 610 || Adding 1 and 521682 and writing it to 223
+Instruction pointer: 614 || Instruction pointer: 618 || Multiplying 2 and 521683 and writing it to 223
+Instruction pointer: 622 || Instruction pointer: 625 || Adding 1043366 and 1 and writing it to 223
+Instruction pointer: 629 || Instruction pointer: 633 || Multiplying 1043367 and 2 and writing it to 223
+Instruction pointer: 637 || Instruction pointer: 644 || Instruction pointer: 648 || Multiplying 2086734 and 2 and writing it to 223
+Instruction pointer: 652 || Instruction pointer: 659 || Instruction pointer: 663 || Multiplying 4173468 and 2 and writing it to 223
+Instruction pointer: 667 || Instruction pointer: 670 || Adding 1 and 8346936 and writing it to 223
+Instruction pointer: 674 || Code: 8346937
